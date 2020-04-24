@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1587630251 source:c:\users\danil\desktop\lab3(clean)\main.cpp
+	<iostream>
+	"Vehicle.h"
+	"Car.h"
+	"Passenger_car.h"
+	"Bus.h"
+	"Plane.h"
+	"Ship.h"
+	"Manager.h"
+
+1587711079 c:\users\danil\desktop\lab3(clean)\vehicle.h
+	<cstring>
+	<iostream>
+	<math.h>
+
+1587711078 c:\users\danil\desktop\lab3(clean)\car.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"Vehicle.h"
+
+1587711079 c:\users\danil\desktop\lab3(clean)\passenger_car.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"Vehicle.h"
+	"Car.h"
+
+1587711078 c:\users\danil\desktop\lab3(clean)\bus.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"Vehicle.h"
+	"Car.h"
+
+1587711079 c:\users\danil\desktop\lab3(clean)\plane.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"Vehicle.h"
+	"Car.h"
+
+1587711079 c:\users\danil\desktop\lab3(clean)\ship.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"Vehicle.h"
+	"Car.h"
+
+1587559914 c:\users\danil\desktop\lab3(clean)\manager.h
+	"Vehicle.h"
+
+1587631599 source:c:\users\danil\desktop\lab3(clean)\vehicle.cpp
+	"Vehicle.h"
+
+1587631847 source:c:\users\danil\desktop\lab3(clean)\bus.cpp
+	"Bus.h"
+
+1587631835 source:c:\users\danil\desktop\lab3(clean)\car.cpp
+	"Car.h"
+
+1587631889 source:c:\users\danil\desktop\lab3(clean)\passenger_car.cpp
+	"Passenger_car.h"
+
+1587632026 source:c:\users\danil\desktop\lab3(clean)\plane.cpp
+	"Plane.h"
+
+1587632105 source:c:\users\danil\desktop\lab3(clean)\ship.cpp
+	"Ship.h"
+
+1587632591 source:c:\users\danil\desktop\lab3(clean)\manager.cpp
+	"Manager.h"
+
